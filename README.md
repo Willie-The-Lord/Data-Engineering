@@ -1,5 +1,6 @@
 # SQL for Data Science
-|Name |Quantity|
+
+| |SQL|NoSQL|
 |-----|--------|
 |Apple|3       |
 |Egg  |12      |
