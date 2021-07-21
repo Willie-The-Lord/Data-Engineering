@@ -80,3 +80,25 @@ ALTER TABLE customers ALTER COLUMN Discount DECIMAL(18, 2);
 ALTER TABLE table_name DROP COLUMN column_name;
 
 ALTER TABLE customers DROP COLUMN Discount;
+
+==================================
+
+SELECT ProductName
+,UnitPrice
+,SupplierID
+FROM Products
+WHERE UnitPrice >= 75
+
+==================================
+
+SELECT ProductName
+,UnitPrice
+,SupplierID
+FROM Products
+WHERE SupplierID IN (9, 10, 11)
+
+==================================
+
+
+
+
