@@ -99,6 +99,10 @@ WHERE SupplierID IN (9, 10, 11)
 
 ==================================
 
+SELECT something
+From database
+ORDER BY character
 
+==================================
 
 
