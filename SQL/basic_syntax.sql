@@ -41,7 +41,7 @@ SELECT * FROM Friends WHERE First_Name LIKE '_en';
   +------------+------------+-----------+
   2 rows in set (0.03 sec)
   
-=============================================================
+-------------------------------------------------------------------------
   
 /* Create DataBase */
 CREATE DATABASE database_name;
@@ -81,7 +81,7 @@ ALTER TABLE table_name DROP COLUMN column_name;
 
 ALTER TABLE customers DROP COLUMN Discount;
 
-==================================
+-------------------------------------------------------------------------
 
 SELECT ProductName
 ,UnitPrice
@@ -89,20 +89,15 @@ SELECT ProductName
 FROM Products
 WHERE UnitPrice >= 75
 
-==================================
-
 SELECT ProductName
 ,UnitPrice
 ,SupplierID
 FROM Products
 WHERE SupplierID IN (9, 10, 11)
 
-==================================
-
 SELECT something
 From database
 ORDER BY character
 
-==================================
 
 
