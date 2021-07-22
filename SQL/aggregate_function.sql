@@ -1,6 +1,6 @@
 /* AVG(), COUNT() */
 SELECT AVG(UnitPrice) AS avg_price
-FRROM products
+FROM products
 
 SELECT COUNT (*) AS
 total customers
