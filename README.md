@@ -1,4 +1,4 @@
-# SQL for Data Science
+# SQL/Scala for Data Science
 
 SQL v.s. NoSQL
 
