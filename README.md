@@ -3,9 +3,7 @@
 - Why SQL? SQL is an exceptional reason programming language that is utilized to interface with databases.
 - Why Scala? Scala combines object-oriented and functional programming in one concise, high-level language. 
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 SQL v.s. NoSQL
 
 | | SQL | NoSQL|
