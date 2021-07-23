@@ -12,3 +12,7 @@ var z = Array("Zara", "Nuha", "Ayan")
 //Multi-Dimensional Array
 //An array that has three elements each being an array of integers that has three elements.
 var myMatrix = ofDim[Int](3,3)
+
+//Range
+range(10, 20, 2) //10 12 14 16 18
+range(10, 20)  //10 11 12 13 14 ... 19
