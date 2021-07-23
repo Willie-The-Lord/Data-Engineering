@@ -8,3 +8,7 @@ var z = new Array[String](3)
 z(0) = "Zara"; z(1) = "Nuha"; z(4/2) = "Ayan"
 
 var z = Array("Zara", "Nuha", "Ayan")
+
+//Multi-Dimensional Array
+//An array that has three elements each being an array of integers that has three elements.
+var myMatrix = ofDim[Int](3,3)
