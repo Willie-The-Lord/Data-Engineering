@@ -8,7 +8,8 @@ FROM suppliers CROSS JOIN products;
 /* Select records that have matching values in both tables */
 
 SELECT suppliers.CompanyName, ProductName, UnitPrice
-FROM Suppliers INNER JOIN Products ON Suppliers,supplierid = Products.supplierid
+FROM Suppliers INNER JOIN Products 
+ON Suppliers,supplierid = Products.supplierid
 
 
 
