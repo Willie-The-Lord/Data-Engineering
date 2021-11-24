@@ -1,25 +1,25 @@
-# SQL/Scala for Data Science
+# Data Science
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data.
 
-## Why
+## 📌**About this REPO**
+A place where I practice several programming languages (including their syntaxes) and implement different databases (including Relational or Non-relational databases) in real-world practices.
+
+✅Current playing around with SQL & Scala:
 - Why SQL? SQL is an exceptional reason programming language that is utilized to interface with databases.
 - Why Scala? Scala combines object-oriented and functional programming in one concise, high-level language. 
 
-## Languages/Databases
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+✅In the future:
+I will be focusing on different database-implementations and other data science techniques... Stay TUNED!
 
-## IDE
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+## 📌**Programming Languages & Databases & Editor**
 
-## Packages
+
+## 📌Personal Software Engineering/Data Science Notes
+
+🔗: https://hackmd.io/@Willie-The-Lord
+
+## 📌Extensions
 - Scala(Metals)
 - Scala Syntax(Official)
 - Kite AutoComplete AI Code
 
-## SQL v.s. NoSQL
-
-| | SQL | NoSQL|
-| -------- | -------- | -------- |
-| Data storage   |Stored in a relational model, with rows and columns. Rows contain all of the information about one specific entry/entity, and columns are all the separate data points; for example, you might have a row about a specific car, in which the columns are ‘Make’, ‘Model’, ‘Colour’ and so on.    | The term “NoSQL” encompasses a host of databases, each with different data storage models. The main ones are: document, graph, key-value and columnar. More on the distinctions between them below.   |
-|Schemas and Flexibility|Each record conforms to fixed schema, meaning the columns must be decided and locked before data entry and each row must contain data for each column. This can be amended, but it involves altering the whole database and going offline.|Schemas are dynamic. Information can be added on the fly, and each ‘row’ (or equivalent) doesn’t have to contain data for each ‘column’.|
-|Scalability|Scaling is vertical. In essence, more data means a bigger server, which can get very expensive. It is possible to scale an RDBMS across multiple servers, but this is a difficult and time-consuming process.|Scaling is horizontal, meaning across servers. These multiple servers can be cheap commodity hardware or cloud instances, making it alot more cost-effective than vertical scaling. Many NoSQL technologies also distribute data across servers automatically.|
-|ACID Compliancy (Atomicity, Consistency, Isolation, Durability)|The vast majority of relational databases are ACID compliant.|Varies between technologies, but many NoSQL solutions sacrifice ACID compliancy for performance and scalability|
