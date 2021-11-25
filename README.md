@@ -20,7 +20,7 @@ I will be focusing on different database-implementations and other data science 
 
 
 
-## 📌Personal Software Engineering/Data Science Notes
+## 📌Personal Computer Science/Data Science Notes
 
 🔗: https://hackmd.io/@Willie-The-Lord
 
